@@ -1,6 +1,8 @@
 <img src="https://github.com/shikakun/Lonely-Working-Group/raw/master/Lonely%20Working%20Group.png" width="256" alt="100% FREE DOWNLOAD NOW" align="right">
 
-# Lonely Working Group (2015)
+# Lonely Working Group
+
+[![NPM version](https://img.shields.io/npm/v/lonely-working-group.svg)](https://www.npmjs.org/package/lonely-working-group)
 
 1. Lonely Working Group (2:56)
 2. BASIC認証 (2:27)
